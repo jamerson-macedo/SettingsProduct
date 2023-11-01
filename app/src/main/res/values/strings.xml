@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ProductsAdder</string>
+
+        <string-array name="categories">
+            <item>Special Products</item>
+            <item>Special offers</item>
+            <item>Special estilizado</item>
+
+        </string-array>
+
 </resources>
